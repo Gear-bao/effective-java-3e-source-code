@@ -1,5 +1,8 @@
 package effectivejava.chapter2.item2.builder;
 
+import java.util.Collections;
+import java.util.EnumSet;
+
 // Builder Pattern  (Page 13)
 public class NutritionFacts {
     private final int servingSize;
